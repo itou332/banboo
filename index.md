@@ -11,7 +11,8 @@ lang: ja_JP
 ---
 <hedar>
 <h1>12項</h1>
-<nav aria-label="*献立">
+<nav aria-label="サイト内メニュー">
+ *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
@@ -2818,7 +2819,8 @@ YsjhAAAAAElFTkSuQmCC
 
 </body>
 <footer>
-<nav aria-label="*献立">
+<nav aria-label="サイト内メニュー">
+ *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
 -<a href="https://itou332.github.io/">1項</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
