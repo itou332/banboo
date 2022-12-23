@@ -48,36 +48,41 @@ animation: mymove 10s infinite;
 <circle cx="50" cy="50" r="40" stroke="black" stroke-width="0.8" fill="none" />
 </svg>
 
-
-
 <h3 class="blink">new</h3>
+
+<svg viewBox="0 0 100 100">
+<circle cx="50" cy="50" r="40" stroke="black" stroke-width="0.8" fill="none" />
+</svg>
+---
 
 <svg class="simple-svg-animation" width="100" height="100">
 
 <circle cx="1" cy="1" r="3" fill="blue" />
 <p>whate!?this!!<br>これは！何！？</p>
-
 <div>
-<svg viewBox="0 0 100 100">
-<circle cx="50" cy="50" r="40" stroke="black" stroke-width="0.8" fill="none" />
-</svg>
+
 </div>
 
-<!-- .slide: data-fullscreen -->
-##　BANBOO
+---
+
+## BANBOO
 <img src ="C:\Users\CENTURY_SSD_250GB\Documents\GitHub\12.banboo\take.png">
-<!-- .slide: data-fullscreen -->
+
+---
+
 <p>
 PCで描いた絵をここに記録します。<br>
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
 pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。
 </p>
-<!-- .slide: data-fullscreen -->
+
+---
+
 <p>
 This site looks a little different when you put it in dark mode or change browsers.<br>The picture changes even with PC and Android specs.<br>The picture is written almost in SVG format.
 </p>
-<!-- .slide: data-fullscreen -->
 
+---
 
 <nav aria-label="サイト内メニュー">
  *献立
@@ -99,13 +104,15 @@ This site looks a little different when you put it in dark mode or change browse
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
-<!-- .slide: data-fullscreen -->
+---
+
 <div>
 <svg viewBox="0 0 100 100">
 <circle cx="50" cy="50" r="40" stroke="black" stroke-width="0.8" fill="none" />
 </svg>
 </div>
 <br>
+
 # 🎍竹🎍
 <div>
 <svg viewBox="0 0 100 100">
